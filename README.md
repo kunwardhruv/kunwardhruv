@@ -1,4 +1,3 @@
-
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Dhruv%20Singh&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=AI%20Engineer%20%7C%20ML%20Developer%20%7C%20Builder&descAlignY=55&descSize=18"/>
@@ -15,18 +14,14 @@
 
 ## 🧑‍💻 About Me
 
-```python
-dhruv = {
-    "name"        : "Dhruv Singh",
-    "university"  : "Guru Gobind Singh Indraprastha University (2022–2026)",
-    "degree"      : "B.Tech — AI & ML",
-    "based_in"    : "Delhi, India 🇮🇳",
-    "currently"   : ["Building Agentic AI Systems", "Exploring LangGraph & RAG"],
-    "interests"   : ["LLMs", "Computer Vision", "NLP", "Agentic AI"],
-    "ask_me_about": ["AI/ML", "LangChain", "Python", "Deep Learning"],
-    "fun_fact"    : "I turn caffeine into AI agents ☕🤖"
-}
-```
+> *"I don't just use AI — I build things with it."*
+
+🎓 B.Tech in **AI & ML** @ GGSIPU, Delhi (2022–2026)
+📍 Based in **Delhi, India** — building from here, thinking globally
+🤖 Currently obsessed with **Agentic AI, LangGraph & RAG systems**
+🛠️ I love turning complex AI research into real, working products
+💬 Ask me about **LLMs, LangChain, Computer Vision, or anything AI/ML**
+⚡ Fun fact: My side projects have more commits than my assignments 😅
 
 ---
 
@@ -47,13 +42,15 @@ dhruv = {
 
 </td>
 <td width="50%">
+    
+### ⚖️ Legal Contract Analyzer
+> AI-powered contract review tool — flags risky clauses in plain English
+- Smart legal chunking by Section / Article
+- 🔴 HIGH / MEDIUM / LOW risk detection
+- 💬 Chat with your contract in Hindi or English
+- Powered by **Groq (Llama 3.3 70B) + FAISS + LangChain**
 
-### 📄 AI Resume Screener
-> ML + NLP system to automatically rank resumes against JDs
-- Streamlit dashboard with visual analytics
-- CSV export & performance metrics
-- Automated scoring pipeline
-
+[![Live](https://img.shields.io/badge/Live-Demo-brightgreen?style=flat-square&logo=streamlit)](https://legal-contract-analyzer.streamlit.app/)
 [![GitHub](https://img.shields.io/badge/GitHub-Repo-black?style=flat-square&logo=github)](https://github.com/kunwardhruv)
 
 </td>
@@ -72,11 +69,13 @@ dhruv = {
 </td>
 <td width="50%">
 
-### 🏭 Predictive Maintenance System
-> IoT + ML system for industrial failure prediction
-- Time-series forecasting on sensor data
-- Arduino-based live data collection
-- YOLO-based real-time object detection (95%+ accuracy)
+### 📄 AI Resume Screener
+> ML + NLP system to automatically rank resumes against JDs
+- Streamlit dashboard with visual analytics
+- CSV export & performance metrics
+- Automated scoring pipeline
+
+[![GitHub](https://img.shields.io/badge/GitHub-Repo-black?style=flat-square&logo=github)](https://github.com/kunwardhruv)
 
 </td>
 </tr>
@@ -88,21 +87,29 @@ dhruv = {
 
 <table>
 <tr>
-<td>🏢 <b>QVOLV Technologies</b> — AI & ML Intern</td>
-<td>📅 May 2025 – Aug 2025 | Delhi</td>
+<td>🏢 <b>QVOLV Technologies Pvt. Ltd.</b> — AI & ML Intern</td>
+<td>📅 May 2025 – Aug 2025 · Delhi</td>
 </tr>
 <tr>
 <td colspan="2">
-→ YOLO-based object detection (95%+ accuracy) · Predictive maintenance systems · Speech-to-translation pipeline using Flask + HuggingFace MarianMT
+
+- 🎯 Developed **YOLO-based real-time object detection** models achieving **95%+ accuracy**
+- 🔧 Built **predictive maintenance systems** using IoT sensor data, time-series forecasting & Arduino prototypes
+- 🗣️ Implemented end-to-end **speech-to-translation pipeline** using Flask REST APIs + HuggingFace MarianMT
+
 </td>
 </tr>
+<tr><td colspan="2"><br/></td></tr>
 <tr>
 <td>🏢 <b>HRS Navigation</b> — Research & Development Intern</td>
-<td>📅 Aug 2025 – Nov 2025 | Bengaluru</td>
+<td>📅 Aug 2025 – Nov 2025 · Bengaluru</td>
 </tr>
 <tr>
 <td colspan="2">
-→ LLM prompt engineering for technical document analysis · Context-aware workflows for structured information extraction
+
+- 🧠 Designed & optimized **LLM prompts** to automatically read, analyze & extract key info from technical documents
+- ⚙️ Built **context-aware prompt engineering workflows** for structured information extraction from research papers
+
 </td>
 </tr>
 </table>
@@ -154,9 +161,9 @@ dhruv = {
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/kunwardhruv)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/dhruv-singh-24nov2004)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kunwardhruv)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@gmail.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kunwarrdhruv@gmail.com)
 
 </div>
 
