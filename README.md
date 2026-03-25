@@ -16,13 +16,12 @@
 
 > *"I don't just use AI — I build things with it."*
 
-🎓 B.Tech in **AI & ML** @ GGSIPU, Delhi (2022–2026)
-📍 Based in **Delhi, India** — building from here, thinking globally
-🤖 Currently obsessed with **Agentic AI, LangGraph & RAG systems**
-🛠️ I love turning complex AI research into real, working products
-💬 Ask me about **LLMs, LangChain, Computer Vision, or anything AI/ML**
-⚡ Fun fact: My side projects have more commits than my assignments 😅
-
+- 🎓 B.Tech in **AI & ML** @ GGSIPU, Delhi (2022–2026)
+- 📍 Based in **Delhi, India** — building from here, thinking globally
+- 🤖 Currently obsessed with **Agentic AI, LangGraph & RAG systems**
+- 🛠️ I love turning complex AI research into real, working products
+- 💬 Ask me about **LLMs, LangChain, Computer Vision, or anything AI/ML**
+- ⚡ Fun fact: My side projects have more commits than my assignments 😅
 ---
 
 ## 🚀 Featured Projects
