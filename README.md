@@ -10,8 +10,6 @@
 
 </div>
 
----
-
 ## 🧑‍💻 About Me
 
 > *"I don't just use AI — I build things with it."*
