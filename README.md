@@ -12,10 +12,10 @@
 
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=kunwardhruv&color=8b5cf6&style=flat-square&label=Profile+Views)
-![Followers](https://img.shields.io/github/followers/kunwardhruv?label=Followers&style=flat-square&color=6366f1&logo=github)
-![Academic](https://img.shields.io/badge/B.Tech-AI%20%26%20DS%20%E2%80%9926-5f27cd?style=flat-square)
-![Location](https://img.shields.io/badge/📍-Delhi%2C%20India-130f40?style=flat-square)
+![Profile Views](https://komarev.com/ghpvc/?username=kunwardhruv&color=8b5cf6&style=for-the-badge&label=PROFILE+VIEWS) &nbsp;&nbsp;
+![Followers](https://badgen.net/github/followers/kunwardhruv?icon=github&color=6366f1&label=FOLLOWERS) &nbsp;&nbsp;
+![Academic](https://img.shields.io/badge/B.TECH-AI%20%26%20DS%20%E2%80%9926-5f27cd?style=for-the-badge) &nbsp;&nbsp;
+![Location](https://img.shields.io/badge/📍-DELHI%2C%20INDIA-130f40?style=for-the-badge)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dhruv-singh-24nov2004)
 [![Email](https://img.shields.io/badge/Email-Reach%20Out-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kunwarrdhruv@gmail.com)
@@ -28,16 +28,25 @@
 
 ## 🧑‍💻 About Me
 
+> [!TIP]
 > *"I don't just use AI — I build things with it."*
 
-I'm a final-year **B.Tech AI & Data Science** student at **GGSIPU, Delhi**, currently deep in the **Agentic AI** rabbit hole — building autonomous systems that reason, retrieve, and act, not just chat. My recent work spans **LangGraph multi-agent pipelines, production-style RAG systems, and AutoML agents** that take a dataset/document in one end and a fully explained result out the other.
+I'm a final-year **B.Tech AI & Data Science** student at **GGSIPU, Delhi**, currently deep in the **Agentic AI** rabbit hole — building autonomous systems that reason, retrieve, and act, not just chat. Across my last few projects I've gone from single-agent RAG chatbots to full multi-node **LangGraph** pipelines that take a raw dataset or document on one end and hand back a fully reasoned, explained result on the other — with almost no manual glue code in between. I care a lot about *why* a system makes the decisions it does, which is why explainability (SHAP, page-cited RAG, structured LLM reasoning) shows up in nearly everything I build.
 
-- 🎓 B.Tech AI & ML @ GGSIPU, Delhi (2022 – 2026)
-- 📍 Based in Delhi, India — open to relocating anywhere in India
-- 🤖 Currently building **stateful, multi-node agentic systems** with LangGraph + Groq
-- 📄 2 published research papers (Sports Analytics · AI Resume Screening)
-- ⚡ Immediate joiner — actively looking for **AI/ML & Agentic AI Engineer** roles
-- 💬 Ask me about **LangGraph, RAG, LLM orchestration, or classical ML pipelines**
+### 🎓 Background
+- B.Tech in **AI & Machine Learning** @ GGSIPU, Delhi (2022 – 2026)
+- 2 published research papers — **Sports Analytics (Big Data + Deep Learning)** and **AI Resume Screening (NLP + Transformers)**
+- Hands-on industry exposure across **computer vision, IoT, and LLM-driven R&D**
+
+### 🤖 Currently Building
+- Multi-node **LangGraph `StateGraph`** pipelines with conditional routing and shared state
+- Production-style **RAG systems** — hybrid search, hallucination guardrails, page-level citations
+- **AutoML-style agents** that pick, tune, and explain their own models
+
+### 📌 Open To
+- ⚡ **Immediate joiner** — AI/ML Engineer & Agentic AI / LLM Engineer roles
+- 🧭 Open to relocating **anywhere in India**
+- 💬 Always up for a chat about LangGraph, RAG, or LLM orchestration
 
 ---
 
@@ -161,6 +170,12 @@ I'm a final-year **B.Tech AI & Data Science** student at **GGSIPU, Delhi**, curr
 
 <div align="center">
 
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kunwardhruv&theme=tokyonight"/>
+
+</div>
+
+<div align="center">
+
 <img height="165em" src="https://github-readme-stats.vercel.app/api?username=kunwardhruv&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=8b5cf6"/>
 <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kunwardhruv&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA"/>
 
@@ -176,7 +191,7 @@ I'm a final-year **B.Tech AI & Data Science** student at **GGSIPU, Delhi**, curr
 
 <div align="center">
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=kunwardhruv&theme=tokyonight&no-frame=true&row=2&column=4&margin-w=15)
+![Trophies](https://github-profile-trophy.vercel.app/?username=kunwardhruv&theme=tokyonight&row=2&column=4)
 
 </div>
 
