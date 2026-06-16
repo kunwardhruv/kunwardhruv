@@ -13,7 +13,7 @@
 <div align="center">
 
 ![Profile Views](https://komarev.com/ghpvc/?username=kunwardhruv&color=8b5cf6&style=for-the-badge&label=PROFILE+VIEWS) &nbsp;&nbsp;
-![Followers](https://badgen.net/github/followers/kunwardhruv?icon=github&color=6366f1&label=FOLLOWERS) &nbsp;&nbsp;
+![Open to Work](https://img.shields.io/badge/🟢-OPEN%20TO%20WORK-6366f1?style=for-the-badge) &nbsp;&nbsp;
 ![Academic](https://img.shields.io/badge/B.TECH-AI%20%26%20DS%20%E2%80%9926-5f27cd?style=for-the-badge) &nbsp;&nbsp;
 ![Location](https://img.shields.io/badge/📍-DELHI%2C%20INDIA-130f40?style=for-the-badge)
 
